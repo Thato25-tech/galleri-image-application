@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 27 Feb 2025, 13:25:34
+    Author     : DMAICTADMIN
+*/
+
+.scrollPane{
+    -fx-background-color: red;
+    -fx-border-color: #007ACC; /* Blue Border */
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+
+    
+}
+.borderPane{
+      /*-fx-background-color: red; /* Gradient Background */
+    -fx-border-color: #333;  /* Border Color */
+    -fx-border-width: 2px;   /* Border Thickness */
+    -fx-border-radius: 5px;  /* Rounded Corners */
+    -fx-padding: 10px; 
+    
+}
+  .backButton {
+   -fx-background-color:red;
+   -fx-text-fill: red;
+   -fx-border-color:red;
+   -fx-font-size: 30px;
+   -fx-padding:20px;
+}
+.gridpane{
+    -fx-background-color:azure;
+    -fx-border-color:aqua;
+}
+.gridStyle{
+    -fx-hgap: 40px;
+    -fx-vgap: 10px;
+    -fx-alignment: center;
+}
+.root{
+    -fx-alignment:CENTER;
+    -fx-background-color:orangered;
+    
+    
+}
